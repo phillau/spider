@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages name="house">
+	<area name="北京链家" url="https://bj.lianjia.com/zufang/" source="" channel="东城" sort="" charset="utf-8" open="off"/>
+	<area name="西安链家" url="http://xa.fang.lianjia.com/loupan/" source="" channel="东城" sort="" charset="utf-8" open="off"/>
+	<area name="西安58" url="http://xa.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="咸阳58" url="http://xianyang.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="宝鸡58" url="http://baoji.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="渭南58" url="http://wn.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="汉中58" url="http://hanzhong.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="榆林58" url="http://yl.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="延安58" url="http://yanan.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="安康58" url="http://ankang.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="商洛58" url="http://sl.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="铜川58" url="http://tc.58.com/" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<area name="北京58" url="http://bj.58.com/" source="" channel="" sort="" charset="utf-8" open="off"/>
+	<area name="上海58" url="http://sh.58.com/" source="" channel="" sort="" charset="utf-8" open="off"/>
+	<area name="天津58" url="http://tj.58.com/" source="" channel="" sort="" charset="utf-8" open="off"/>
+	<area name="重庆58" url="http://cq.58.com/" source="" channel="" sort="" charset="utf-8" open="off"/>
+</pages>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages name="finance">
+	<!--焦点 -->
+	<rss name="百度" url="http://news.baidu.com/n?cmd=1&amp;class=finannews&amp;tn=rss" source="" channel="焦点" sort="" charset="utf-8" open="on"/>
+	<rss name="百度" url="http://news.baidu.com/n?cmd=1&amp;class=stock&amp;tn=rss" source="" channel="股票" sort="" charset="utf-8" open="on"/>
+	<rss name="百度" url="http://news.baidu.com/n?cmd=1&amp;class=money&amp;tn=rss" source="" channel="理财" sort="" charset="utf-8" open="on"/>
+	<rss name="百度" url="http://news.baidu.com/n?cmd=1&amp;class=hongguan&amp;tn=rss" source="" channel="宏观经济" sort="" charset="utf-8" open="on"/>
+	<rss name="百度" url="http://news.baidu.com/n?cmd=1&amp;class=chanye&amp;tn=rss" source="" channel="产业经济" sort="" charset="utf-8" open="on"/>
+</pages>

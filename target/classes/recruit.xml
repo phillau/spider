@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages name="招聘" open="on">
+	<page name="销售" open="on">
+		<type name="销售代表"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=销售代表"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="电话销售"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=电话销售"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="销售经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=销售经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="销售顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=销售顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="汽车销售"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=汽车销售"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="销售总监"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=销售总监"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="医药销售"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=医药销售"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="网络销售"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=网络销售"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="区域销售"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=区域销售"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="客户经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=客户经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="销售顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=销售顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="市场" open="on">
+		<type name="市场专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=市场专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="市场经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=市场经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="市场拓展"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=市场拓展"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="市场调研"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=市场调研"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="市场策划"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=市场策划"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="策划经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=策划经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="客服" open="on">
+		<type name="客服专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=客服专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="电话客服"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=电话客服"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="客服经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=客服经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="售后服务"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=售后服务"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="客户关系"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=客户关系"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="客服总监"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=客服总监"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="公关" open="on">
+		<type name="公关员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=公关员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="公关经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=公关经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="媒介专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=媒介专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="媒介经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=媒介经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="会展专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=会展专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="技工+工人" open="on">
+		<type name="普工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=普工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="电工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=电工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="木工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=木工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="钳工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=钳工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="焊工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=焊工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="钣金工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=钣金工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="锅炉工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=锅炉工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="油漆工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=油漆工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="缝纫工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=缝纫工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="维修工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=维修工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="水暖工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=水暖工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="车工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=车工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="叉车工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=叉车工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="手机维修"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=手机维修"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="电梯工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=电梯工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="操作工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=操作工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="包装工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=包装工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="水泥工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=水泥工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="钢筋工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=钢筋工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="纺织工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=纺织工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="管道工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=管道工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="样衣工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=样衣工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="装卸工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=装卸工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="生产+研发" open="on">
+		<type name="质量管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=质量管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="生产组长"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=生产组长"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="车间主任"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=车间主任"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="工艺设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=工艺设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="生产总监"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=生产总监"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="高级工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=高级工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="机械+仪表" open="on">
+		<type name="机械工程"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=机械工程"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="仪器仪表"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=仪器仪表"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="机电"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=机电" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="版图设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=版图设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="司机" open="on">
+		<type name="商务司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=商务司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="客车司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=客车司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="货车司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=货车司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="出租车司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=出租车司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="班车司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=班车司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="驾校教练"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=驾校教练"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="带车司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=带车司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="地铁司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=地铁司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="高铁司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=高铁司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="小车司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=小车司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="快车司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=快车司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="专车司机"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=专车司机"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="物流+仓储" open="on">
+		<type name="快递员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=快递员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="仓库管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=仓库管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="搬运工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=搬运工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="物流专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=物流专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="物流经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=物流经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="调度员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=调度员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="贸易+采购" open="on">
+		<type name="外贸专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=外贸专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="外贸经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=外贸经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="采购员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=采购员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="采购经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=采购经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="商务专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=商务专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="报关员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=报关员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="买手"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=买手" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="保险+理赔" open="on">
+		<type name="保险推销"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=保险推销"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="保险顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=保险顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="核保理赔"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=核保理赔"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="保险经纪人"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=保险经纪人"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="保险精算师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=保险精算师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="契约管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=契约管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="保险内勤"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=保险内勤"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="餐饮类" open="on">
+		<type name="厨师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=厨师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="服务员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=服务员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="传菜员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=传菜员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="面点师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=面点师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="洗碗工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=洗碗工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="后厨"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=后厨" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="杂工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=杂工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="学徒"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=学徒" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="咖啡师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=咖啡师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="茶艺师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=茶艺师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="迎宾"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=迎宾" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="酒店+旅游" open="on">
+		<type name="酒店前台"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=酒店前台"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="酒店服务员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=酒店服务员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="行李员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=行李员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="大堂经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=大堂经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="酒店管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=酒店管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="酒店管家"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=酒店管家"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="导游"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=导游" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="旅游顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=旅游顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="签证专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=签证专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="订票员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=订票员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="试睡师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=试睡师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="超市+销售" open="on">
+		<type name="促销导购"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=促销导购"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="营业员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=营业员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="收银员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=收银员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="理货员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=理货员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="食品加工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=食品加工"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="品类管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=品类管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="店长"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=店长" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="美容+美发" open="on">
+		<type name="发型师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=发型师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="美容师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美容师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="化妆师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=化妆师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="美甲师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美甲师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="美发助理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美发助理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="洗头工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=洗头工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="美体师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美体师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="美容顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美容顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="美容助理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美容助理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="美容店长"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美容店长"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="宠物美容"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=宠物美容"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="保健+按摩" open="on">
+		<type name="按摩师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=按摩师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="针灸推拿"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=针灸推拿"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="足疗师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=足疗师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="搓澡工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=搓澡工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="盲人按摩"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=盲人按摩"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="娱乐+影视" open="on">
+		<type name="礼仪"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=礼仪" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="调酒师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=调酒师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="摄影师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=摄影师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="主持人"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=主持人" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="配音员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=配音员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="后期制作"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=后期制作"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="场务"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=场务" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="群众演员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=群众演员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="音效师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=音效师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="灯光师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=灯光师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="编剧"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=编剧" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="主播"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=主播" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="技术开发" open="on">
+		<type name="程序员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=程序员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="网页设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=网页设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="技术专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=技术专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="软件工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=软件工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="测试工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=测试工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="运维工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=运维工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="技术支持"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=技术支持"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="硬件工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=硬件工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="系统工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=系统工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="通信工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=通信工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="数据工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=数据工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="前端工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=前端工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="APP开发"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=APP开发"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="算法工程师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=算法工程师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="产品管理" open="on">
+		<type name="产品经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=产品经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="产品运营"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=产品运营"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="产品助理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=产品助理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="项目经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=项目经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="高级产品经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=高级产品经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="产品实习生"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=产品实习生"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="SEO"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=SEO" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="电子+电气" open="on">
+		<type name="无线电"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=无线电" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="电路工程"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=电路工程"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="自动化"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=自动化" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="电子维修"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=电子维修"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="产品工艺"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=产品工艺"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="家政+安保" open="on">
+		<type name="保洁"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=保洁" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="保姆"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=保姆" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="保安"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=保安" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="月嫂"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=月嫂" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="钟点工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=钟点工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="洗衣工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=洗衣工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="护工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=护工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="育婴师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=育婴师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="送水工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=送水工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="家庭管家"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=家庭管家"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="物业管理" open="on">
+		<type name="物业维修"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=物业维修"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="物业管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=物业管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="物业招商"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=物业招商"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="物业经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=物业经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="淘宝+网店" open="on">
+		<type name="淘宝客服"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=淘宝客服"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="淘宝美工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=淘宝美工"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="淘宝店长"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=淘宝店长"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="淘宝推广"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=淘宝推广"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="淘宝装修"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=淘宝装修"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="淘宝策划"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=淘宝策划"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="淘宝模特"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=淘宝模特"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="财务+会计" open="on">
+		<type name="会计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=会计" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="财务"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=财务" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="出纳"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=出纳" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="审计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=审计" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="税务"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=税务" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="财务分析"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=财务分析"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="成本管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=成本管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="教育+培训" open="on">
+		<type name="教师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=教师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="家教"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=家教" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="幼教"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=幼教" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="教学管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=教学管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="学术研究"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=学术研究"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="培训策划"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=培训策划"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="课程顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=课程顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="银行+证券" open="on">
+		<type name="理财顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=理财顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="证券分析"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=证券分析"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="银行柜员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=银行柜员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="拍卖师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=拍卖师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="操盘手"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=操盘手" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="银行经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=银行经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="信贷管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=信贷管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="律师+法务" open="on">
+		<type name="律师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=律师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="律师助理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=律师助理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="法务专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=法务专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="专利顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=专利顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="合同管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=合同管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="广告+咨询" open="on">
+		<type name="文案"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=文案" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="广告制作"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=广告制作"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="咨询顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=咨询顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="创意总监"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=创意总监"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="广告策划"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=广告策划"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="会展策划"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=会展策划"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="婚礼策划"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=婚礼策划"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="媒介策划"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=媒介策划"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="咨询经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=咨询经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="客户主管"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=客户主管"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="摄影师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=摄影师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="美术+设计" open="on">
+		<type name="服装设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=服装设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="平面设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=平面设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="美编"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美编" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="家具设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=家具设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="美术老师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美术老师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="室内设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=室内设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="包装设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=包装设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="动画设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=动画设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="珠宝设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=珠宝设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="店面设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=店面设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="UI设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=UI设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="编辑+出版" open="on">
+		<type name="编辑"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=编辑" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="记者"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=记者" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="出版"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=出版" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="发行"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=发行" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="专栏作家"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=专栏作家"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="排版设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=排版设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="翻译+语言" open="on">
+		<type name="英语翻译"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=英语翻译"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="日语翻译"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=日语翻译"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="俄语翻译"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=俄语翻译"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="韩语翻译"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=韩语翻译"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="法语翻译"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=法语翻译"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="德语翻译"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=德语翻译"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="小语种"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=小语种" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="医疗+药剂" open="on">
+		<type name="医生"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=医生" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="护士"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=护士" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="药剂师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=药剂师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="理疗师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=理疗师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="导医"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=导医" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="营养师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=营养师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="心理医生"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=心理医生"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="中医"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=中医" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="运动+健身" open="on">
+		<type name="健身教练"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=健身教练"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="瑜伽教练"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=瑜伽教练"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="舞蹈老师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=舞蹈老师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="游泳教练"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=游泳教练"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="台球教练"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=台球教练"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="高尔夫助理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=高尔夫助理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="体育解说员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=体育解说员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="体育记者"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=体育记者"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="足球教练"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=足球教练"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="环境保护" open="on">
+		<type name="污水处理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=污水处理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="环保检测"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=环保检测"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="环境管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=环境管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="环境绿化"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=环境绿化"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="水质检测员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=水质检测员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="政府公务" open="on">
+		<type name="公务员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=公务员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="房地产" open="on">
+		<type name="房产销售"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=房产销售"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="置业顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=置业顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="房产客服"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=房产客服"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="房产策划"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=房产策划"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="房产店员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=房产店员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="房产中介"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=房产中介"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="房产内勤"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=房产内勤"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="房产评估师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=房产评估师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="建筑+装修" open="on">
+		<type name="土木工程"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=土木工程"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="工程监理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=工程监理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="造价师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=造价师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="安全专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=安全专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="项目管理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=项目管理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="园林设计"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=园林设计"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="测绘员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=测绘员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="建筑工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=建筑工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="装修工"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=装修工" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="人事+行政" open="on">
+		<type name="文员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=文员" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="前台"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=前台" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="秘书"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=秘书" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="人事专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=人事专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="人事经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=人事经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="行政助理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=行政助理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="行政主管"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=行政主管"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="招聘专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=招聘专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="招聘经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=招聘经理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="猎头顾问"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=猎头顾问"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="培训专员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=培训专员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="高级管理" open="on">
+		<type name="总监"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=总监" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="总裁助理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=总裁助理"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="副总裁"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=副总裁" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="总经理"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=总经理" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="合伙人"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=合伙人" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="CEO"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=CEO" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="CTO"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=CTO" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="CFO"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=CFO" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="CPO"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=CPO" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="农林牧渔" open="on">
+		<type name="养殖人员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=养殖人员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="饲养业务"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=饲养业务"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="农艺师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=农艺师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="畜牧师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=畜牧师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="饲料研发"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=饲料研发"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+	</page>
+	<page name="好玩职业" open="on">
+		<type name="酒店试睡员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=酒店试睡员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="美食品尝师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=美食品尝师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="旅游体验师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=旅游体验师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="职业拥抱师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=职业拥抱师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="酒店试睡员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=酒店试睡员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="狗粮试吃员"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=狗粮试吃员"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="手模"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=手模" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="陪跑族"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=陪跑族" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+		<type name="网购砍价师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=网购砍价师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="色彩搭配师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=色彩搭配师"
+			source="" channel="" sort="" charset="utf-8" open="on" />
+		<type name="品酒师"
+			url="http://zhaopin.baidu.com//quanzhi?city=needcity&amp;query=品酒师" source=""
+			channel="" sort="" charset="utf-8" open="on" />
+	</page>
+</pages>

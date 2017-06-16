@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<province name="陕西" open="on">
+	<city name="西安" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="咸阳" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="宝鸡" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="渭南" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="汉中" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="榆林" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="延安" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="安康" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="商洛" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+	<city name="铜川" url="" source="" channel="" sort="" charset="utf-8" open="on"/>
+</province>

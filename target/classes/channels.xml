@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+	<!--国内新闻5分钟，世界新闻6分钟，财经新闻8分钟，体育9分钟, 行业新闻13分钟 -->
+	<channel name="财经焦点" table="t_news" class="com.kingdee.apusic.spider.news.process.RssProcessor" file="finance_focus_rss.xml" period="3600000" open="on"></channel>
+	<channel name="百度招聘" table="t_recruiment" class="com.kingdee.apusic.spider.recruit.process.CityZhaoPinProcessor" file="recruit.xml" period="10000000" open="on"></channel>
+	<channel name="租房" table="t_lease" class="com.kingdee.apusic.spider.house.process.ZuFangProcessor" file="house.xml" period="30000000" open="on"></channel>
+	<channel name="价格" table="t_price" class="com.kingdee.apusic.spider.price.process.PriceProcessor" file="price.xml" period="10800000" open="on"></channel>
+	<!-- <channel name="images" table="t_image" class="com.cqz.news.process.MediaProcessor" file="images.xml" period="294000" open="on"></channel>  -->
+</channels>
